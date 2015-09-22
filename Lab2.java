@@ -43,7 +43,7 @@ public class Lab2 {
 	    // Otherwise, only the narrator is going!
 	    total = 1;
 	}
-	System.out.println(total);
+	System.out.println("Number going to St. Ives is " + total);
 	// 3. Right before exiting, the system should print
 	// "Number going to St. Ives is " and then, on the same line,
 	// the number going to St. Ives (stored in the _total_ variable).
